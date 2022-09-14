@@ -1,5 +1,4 @@
-# primeiro-repositorio
-
+# turma-1b
 Para copiar o código em HTML:
 ...
 <html>
